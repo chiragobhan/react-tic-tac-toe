@@ -1,3 +1,7 @@
+# Tic Tac Toe
+A two-player game. Both players enter their names and click the begin button. Once the button is pressed, Player 1 gets X and Player 2 gets O. The game begins with player 1 who can decide where to put the X. Then the turn goes to player 2 who can do the same. The game will check for 3 consecutive X's or 0's, whoever makes the first strike wins. Game is either a win or a draw. Game announces winner at the end.  
+Live Demo - https://chiragobhan.github.io/react-tic-tac-toe/  
+  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
